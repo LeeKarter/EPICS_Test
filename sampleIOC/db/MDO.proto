@@ -1,0 +1,15 @@
+Terminator = LF;
+getTemp{
+    out "GET_TEMP";
+    in "%f";
+}
+setTemp{
+    out "SET_TEMP %f";
+}
+getStatus{
+    out "GET_STATUS";
+    in "%s";
+}
+setStatus{
+    out "SET_STATUS %s";
+}

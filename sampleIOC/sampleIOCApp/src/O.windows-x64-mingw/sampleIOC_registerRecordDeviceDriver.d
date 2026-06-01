@@ -1,0 +1,29 @@
+sampleIOC_registerRecordDeviceDriver.obj: \
+ sampleIOC_registerRecordDeviceDriver.cpp \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/compilerDependencies.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/compiler/gcc/compilerSpecific.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/epicsStdlib.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/libComAPI.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/os/WIN32/osdStrtod.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/epicsTypes.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/compilerDependencies.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/errMdef.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/iocsh.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/iocshRegisterCommon.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbCoreAPI.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/registryCommon.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbStaticLib.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbFldTypes.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbBase.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/ellLib.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbDefs.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/recSup.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/devSup.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/drvSup.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/link.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/cantProceed.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbJLink.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/dbCoreAPI.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/registryRecordType.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/recSup.h \
+ E:/MSYStest/home/LeeKarter/base-7.0.10/include/shareLib.h
